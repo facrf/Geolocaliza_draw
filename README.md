@@ -85,6 +85,7 @@ Abra o navegador que você usou para "instalar" o aplicativo.
 
 Na barra de endereços (onde você digita os sites), você pode ver um pequeno ícone (às vezes um monitor ou um sinal de mais dentro de um círculo) indicando que o aplicativo está instalado.
 
+
 Clique nesse ícone e procure por uma opção para "Desinstalar" ou "Remover".
 
 Alternativamente, você pode ir para as configurações do navegador e procurar por "Aplicativos" ou "Aplicativos instalados". Encontre o nosso aplicativo na lista e clique em "Remover".
